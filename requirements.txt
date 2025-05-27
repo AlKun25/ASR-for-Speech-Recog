@@ -1,0 +1,7 @@
+keras==2.3.1
+tensorflow==1.15.2
+librosa==0.9.2
+numpy==1.19.5
+scipy==1.7.3
+matplotlib==3.4.3
+h5py==2.10.0
